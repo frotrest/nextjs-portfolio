@@ -29,7 +29,7 @@ const Contacts = () => {
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans p-6 dark:bg-black min-h-screen">
       <div className="flex flex-col gap-5 items-center max-w-2xl w-full text-center md:text-left">
         <h1 className="text-3xl font-bold text-zinc-900 dark:text-white mb-4">
-          Зв'язатися зі мною
+          Звязатися зі мною
         </h1>
 
         <p className="text-zinc-600 dark:text-zinc-400 mb-8 leading-relaxed">
