@@ -40,7 +40,7 @@ const Product = async ({ params }: { params: Promise<{ id: string }> }) => {
 
   return (
     <section>
-      <Link href="/product" style={{ color: 'gray', textDecoration: 'none' }}>
+      <Link href="/products" style={{ color: 'gray', textDecoration: 'none' }}>
         ← Назад к каталогу
       </Link>
 
