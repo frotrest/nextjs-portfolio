@@ -6,6 +6,7 @@ const navLinks = [
   { name: 'Проєкти', href: '/projects' },
   { name: 'Про мене', href: '/about' },
   { name: 'Контакти', href: '/contacts' },
+  { name: 'Продукти', href: '/products' },
 ];
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
